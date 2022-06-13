@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78406072711",
+    "project_id": "sunpetro-bcb27",
+    "storage_bucket": "sunpetro-bcb27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78406072711:android:ece32ca700aa9eea10fb22",
+        "android_client_info": {
+          "package_name": "com.example.sunpetro2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78406072711-k3s3355g6u36nnqfkos1l6roamc1u8us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6UoCD9OSaIOLokWWIlpAabd-IllOXeMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78406072711-k3s3355g6u36nnqfkos1l6roamc1u8us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
